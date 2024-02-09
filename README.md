@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello, I'm [Dekrate], a passionate programmer and tech enthusiast. Welcome to my GitHub profile, where I share my projects and coding experiences.
+Hello, I'm Dekrate, a passionate programmer and tech enthusiast. Welcome to my GitHub profile, where I share my projects and coding experiences.
 
 ## About Me
 
